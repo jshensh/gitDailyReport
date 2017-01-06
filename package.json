@@ -1,0 +1,9 @@
+{
+  "name": "dailyReportToSb",
+  "version": "0.0.1",
+  "description": "dailyReportToSb",
+  "dependencies": {
+    "child_process": "*",
+    "nodemailer": "*"
+  }
+}
